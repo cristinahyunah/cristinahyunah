@@ -1,6 +1,19 @@
-### Hi there 👋
-🌱 I’m currently learning c#
+### Hello World  👋🌎
 
+My name is **Cristina Hyun Ah**
+
+
+
+🌱 I’m currently learning C#
+
+
+
+
+
+
+
+
+![Pac Man](https://github.com/cristinahyunah/cristinahyunah/blob/main/pacman.gif)
 <!--
 **cristinahyunah/cristinahyunah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
