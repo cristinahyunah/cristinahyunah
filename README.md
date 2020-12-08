@@ -2,7 +2,8 @@
 
 My name is **Cristina Hyun Ah**
 
-In search of acquiring knowledge, Always open to new challenges and ready to face changes
+In search of acquiring knowledge, 
+Always open to new challenges and ready to face changes ![Plantinha](https://github.com/cristinahyunah/cristinahyunah/blob/main/planta.gif)
 
 💬 
 - 📍 Brazil
@@ -17,8 +18,6 @@ In search of acquiring knowledge, Always open to new challenges and ready to fac
 
 
 
-
-![Pac Man](https://github.com/cristinahyunah/cristinahyunah/blob/main/pacman.gif)
 <!--
 **cristinahyunah/cristinahyunah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
