@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://github.com/cristinahyunah/cristinahyunah/blob/main/planta.gif">
 
-### Hello World 🌱🦊
+## Hello World 🌱🦊
 
 My name is **Cristina Hyun Ah**
 
