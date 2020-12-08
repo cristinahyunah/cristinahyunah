@@ -5,17 +5,16 @@
 My name is **Cristina Hyun Ah**
 
 ❤️ In search of acquiring knowledge, 
-Always open to new challenges and ready to face changes
+Always open to new challenges and ready to face changes.
 
-## About me
+## About me 💬
 
-📍 I'm from João Pessoa - Brazil
-💻 Game Design Student
-👩🏻‍🎨 illustrator
-👾 I like to play video games
+- 📍 I'm from João Pessoa - Brazil
+- 💻 Game Design Student
+- 👩🏻‍🎨 illustrator
+- 👾 I am passionate about playing video games
 
  | 🌱 I’m currently learning C#
- | 🌱 I’m currently learning 
+ | 🌱 I’m currently learning ...
 
 
-## Social media :mailbox_with_no_mail:
