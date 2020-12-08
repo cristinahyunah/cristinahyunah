@@ -2,12 +2,17 @@
 
 My name is **Cristina Hyun Ah**
 
+In search of acquiring knowledge, Always open to new challenges and ready to face changes
+
+💬 
+- 📍 Brazil
+
+- 💻 Game Design Student
+
+- 👩🏻‍🎨 illustrator
 
 
-🌱 I’m currently learning C#
-
-
-
+- 🌱 I’m currently learning C#
 
 
 
