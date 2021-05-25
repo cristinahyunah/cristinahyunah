@@ -14,7 +14,7 @@ Always open to new challenges and ready to face changes.
 - 👩🏻‍🎨 illustrator
 - 👾 I am passionate about playing video games
 
- | 🌱 I’m currently learning C#
+ | 🌱 I’m currently learning html/css/javascript
  | 🌱 I’m currently learning ...
 
 
