@@ -10,12 +10,16 @@ Always open to new challenges and ready to face changes.
 ## About me 💬
 
 - 📍 I'm from João Pessoa - Brazil
-- 💻 Game Design Student
-- 👩🏻‍🎨 illustrator
-- 📈 Improve UI/UX skills
-- 👾 I am passionate about playing video games
+- 💻 Game Design student
+- 👩🏻‍🎨 illustrator and Lettering Artist
+- 👾 I am passionate about playing video games and Art
 
- | 🌱 I’m currently learning html/css/javascript
+
+
  | 🌱 I’m currently learning UI/UX Design
+ 
+ | 🌱 I’m currently learning html / CSS / javascript
+ 
+
 
 
