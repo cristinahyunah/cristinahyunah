@@ -9,7 +9,7 @@ Always open to new challenges and ready to face changes.
 
 ## About me 💬
 
-- 📍 I'm from João Pessoa - Brazil
+- 📍 Brazil
 - 💻 Game Design student
 - 👩🏻‍🎨 illustrator and Lettering Artist
 - 👾 I am passionate about playing video games and Art
